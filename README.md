@@ -3,6 +3,7 @@
 Demo:
 
 [![Closest Pair](https://img.youtube.com/vi/xchUv8C7Unw/0.jpg)](https://www.youtube.com/watch?v=xchUv8C7Unw)
+
 This Java program finds the closest pair of points from a set of randomly generated points using both brute force and divide-and-conquer algorithms. The program uses the `DUDraw` library for drawing the points and visualizing the closest pairs.
 
 ## Features
